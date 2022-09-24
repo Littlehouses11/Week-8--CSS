@@ -1,0 +1,39 @@
+body{background-color: aquamarine;}
+
+h1{font-size: 70px;
+color: #3747b3;
+}
+
+h4{font-size: 20px;
+    color: #3747b3;
+
+}
+
+p{color: #32566a;
+}
+
+.box{
+    background: pink;
+    width: 180px;
+    margin: 15px;
+
+    border-bottom-width: 3px;
+    border-bottom-color: #1761e1;
+    border-bottom-style: solid;
+}
+
+.table {
+    color: grey;
+    }
+    
+ .content a {
+    color: red;
+    }
+
+a:visited{
+    color: blue
+}
+a:hover{
+color: black
+}
+
